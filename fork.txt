@@ -1,0 +1,6 @@
+3-agregando su nombre y apellido , la iP de la máquina y la hora, y hace
+el push a su repositorio.
+
+bautista escalante 
+192.168.1.2
+10/11/2023 13:54
