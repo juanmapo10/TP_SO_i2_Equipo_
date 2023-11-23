@@ -9,3 +9,6 @@ e)  -git clone <https://github.com/bautista-escalante/TP_SO_i2_Equipo_125>
     hago un pull request desde github 
     despues de que mis compañeros hagan sus cambios actualizo mi repo con 
     -git pull origin main
+    -git add .
+    -git commit -m "respuesta e"
+    
