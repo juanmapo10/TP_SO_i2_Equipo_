@@ -1,1 +1,11 @@
 
+
+
+e)  -git clone <https://github.com/bautista-escalante/TP_SO_i2_Equipo_125>
+    aca modifico fork.txt 
+    -git add fork.txt git commit -m "info de ALFA" 
+    aca subo los cambios
+    -git push origin main
+    hago un pull request desde github 
+    despues de que mis compañeros hagan sus cambios actualizo mi repo con 
+    -git pull origin main
