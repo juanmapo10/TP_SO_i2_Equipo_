@@ -1,5 +1,8 @@
+a-¿Como actualizo mi repositorio, al estado que esté el repo que hice FORK?
+git pull origin main
 
-
+b-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
+si 
 
 e)  -git clone <https://github.com/bautista-escalante/TP_SO_i2_Equipo_125>
     aca modifico fork.txt 
