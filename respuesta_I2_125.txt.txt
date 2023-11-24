@@ -1,10 +1,29 @@
 a-¿Como actualizo mi repositorio, al estado que esté el repo que hice FORK?
+
+git pull origin main
+
 b-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
+
+si 
+
 c-¿Puede GAMMA actualizar su FORK al estado del fork de ALFA?
-d-¿Los datos que tenía en mi repositorio , editados por mi, se pierden si quiero actualizar
-el fork?
-e- realizar un listado, paso a paso ,de los comando necesarios para resolver este TP por
-orden de ejecución de los mismos junto con los apellidos y nombre de los alumnos 
 
 c-No, GAMMA no puede actualizar su fork al estado del fork de ALFA directamente.
+
+d-¿Los datos que tenía en mi repositorio , editados por mi, se pierden si quiero actualizar
+el fork?
+
 d-No, los datos editados por BETA en su fork no se pierden al actualizar el fork.
+
+e- realizar un listado, paso a paso ,de los comando necesarios para resolver este TP por
+orden de ejecución de los mismos junto con los apellidos y nombre de los alumnos 
+  -git clone <https://github.com/bautista-escalante/TP_SO_i2_Equipo_125>
+    aca modifico fork.txt 
+    -git add fork.txt git commit -m "info de ALFA" 
+    aca subo los cambios
+    -git push origin main
+    hago un pull request desde github 
+    despues de que mis compañeros hagan sus cambios actualizo mi repo con 
+    -git pull origin main
+    -git add .
+    -git commit -m "respuesta e"
